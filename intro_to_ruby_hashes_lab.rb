@@ -13,7 +13,9 @@ end
 
 def monopoly_with_third_tier
   my_hash = {railroads: {
-    pieces: 4
+    pieces: 4,
+    rent_in_dollars: 4
+      
     }
   }
 end
